@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MShubar/Mohsen-CV/static/css/main.66e59e7b.css",
+    "main.js": "/MShubar/Mohsen-CV/static/js/main.2e2e1a86.js",
+    "index.html": "/MShubar/Mohsen-CV/index.html",
+    "main.66e59e7b.css.map": "/MShubar/Mohsen-CV/static/css/main.66e59e7b.css.map",
+    "main.2e2e1a86.js.map": "/MShubar/Mohsen-CV/static/js/main.2e2e1a86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e59e7b.css",
+    "static/js/main.2e2e1a86.js"
+  ]
+}

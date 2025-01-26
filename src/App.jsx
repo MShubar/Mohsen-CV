@@ -10,7 +10,7 @@ import Certifications from './components/Certifications';
 import Footer from './components/Footer';
 import { useEffect } from 'react';
 
-export function App(props) {
+function App(props) {
   useEffect(() => {
     AOS.init({ duration: 1000 });
   }, []);
@@ -26,3 +26,4 @@ export function App(props) {
     </div>
   );
 }
+export default App; // Ensure this line exists
