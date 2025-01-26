@@ -1,0 +1,18 @@
+/* Footer Styling */
+footer {
+  background: var(--primary-color);
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
+footer a {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 1.2rem;
+}
+
+footer a:hover {
+  color: var(--accent-color);
+}

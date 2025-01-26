@@ -1,0 +1,24 @@
+/* Experience Section Styling */
+.experience-entry {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform var(--transition-speed),
+    box-shadow var(--transition-speed);
+}
+
+.experience-entry:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.experience-entry h3 {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+}
+
+.experience-entry p {
+  color: var(--dark-color);
+}

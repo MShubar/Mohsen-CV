@@ -1,0 +1,14 @@
+/* Education Section Styling */
+ul {
+  margin-top: 20px;
+}
+
+li {
+  font-size: 1.2rem;
+  color: var(--dark-color);
+  margin-bottom: 10px;
+}
+
+li strong {
+  color: var(--primary-color);
+}

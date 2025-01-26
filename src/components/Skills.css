@@ -1,0 +1,25 @@
+/* Skills Section Styling */
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.skills-list div {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.skills-list strong {
+  color: var(--primary-color);
+  font-size: 1.2rem;
+}
+
+.skills-list p {
+  font-size: 1rem;
+  color: var(--dark-color);
+  margin-top: 10px;
+}
